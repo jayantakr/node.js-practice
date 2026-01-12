@@ -32,7 +32,7 @@ Modules:
     Ex - require('jsonwebtoken')
     - Custom Modules(My own)
     Ex - require('./math.js')
-    ./ - means search iin current directory
+    ./ - means search in current directory
     ../ - means go one directory up
     ../../ - means trwo directory up
 
